@@ -1,0 +1,22 @@
+body{
+    background-color: lightgreen;
+}
+
+a {
+    background-color:orange;
+    color: blue;
+}
+
+p {
+   background-color: lightblue;
+}
+
+img {
+    border: 3px solid red;
+    height: 250px;
+}
+
+header{
+    color: rgb(2, 46, 2);
+    background-color:  rgb(0, 252, 155);
+}
